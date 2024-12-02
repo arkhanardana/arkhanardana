@@ -1,4 +1,4 @@
-# Hi fellas! I'm Arkhan Ardana
+# Hi There! I'm Arkhan Ardana
 
 **`Student (Web Developer)`**
 
