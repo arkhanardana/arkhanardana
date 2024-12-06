@@ -1,6 +1,6 @@
 # Hi there! I'm Arkhan Ardana
 
-**`Student (Web Developer)`**
+**`Student`**
 
 ### I'm a Web Developer based on Yogyakarta, Indonesia
 
