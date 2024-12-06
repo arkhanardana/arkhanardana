@@ -32,7 +32,7 @@
   <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red" alt="Git" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Next.js" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap" /></a>
 </p>
 
