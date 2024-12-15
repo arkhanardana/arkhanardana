@@ -2,7 +2,7 @@
 
 **`Student`**
 
-### I'm a Web Developer based on Yogyakarta, Indonesia
+### I'm a Fullstack Developer based on Yogyakarta, Indonesia
 
 🌟 Aspiring Fullstack Developer | Building modern web apps with Next.js & TypeScript.
 <br/>
