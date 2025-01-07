@@ -1,4 +1,4 @@
-# Hii there! I'm Arkhan Ardana
+# Hi there! I'm Arkhan Ardana
 
 **`Student`**
 
