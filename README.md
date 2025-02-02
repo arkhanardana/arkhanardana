@@ -10,7 +10,8 @@
 <br/>
 🎯 Goals: Deliver impactful projects for developers and communities alike.
 <br/>
-✨ Always learning, experimenting, and embracing new tech!
+✨ Always learning, experimenting, and embracing new tech!, and im currently learning Next.js
+   and Typescript
 <br/>
 
 📬 Let’s connect! Always open to collaborate and share ideas: [arkhanardanaok123@gmail.com]
