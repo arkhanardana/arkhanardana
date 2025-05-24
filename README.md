@@ -1,5 +1,9 @@
 # Hi there! I'm Arkhan Ardana
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+</div>
+
 **`Student`**
 
 ### I'm a Passionate Web Developer based on Yogyakarta, Indonesia
@@ -77,6 +81,5 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkhanardana&show_icons=true&locale=en&layout=compact" alt="arkhanardana" /></p>
