@@ -40,7 +40,7 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
-   <a href="#" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   </a>
   <a href="#" target="_blank">
@@ -58,6 +58,12 @@
   <a href="https://nextjs.org" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white" alt="Next.js" />
   </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  </a>
+  <a href="https://nuxt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
@@ -67,7 +73,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-    <a href="https://tanstack.com/query/latest" target="_blank">
+  <a href="https://tanstack.com/query/latest" target="_blank">
     <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white" alt="React Query" />
   </a>
   <a href="https://axios-http.com/" target="_blank">
@@ -80,5 +86,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkhanardana&show_icons=true&locale=en&layout=compact" alt="arkhanardana" /></p>
