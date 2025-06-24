@@ -14,8 +14,7 @@
 <br/>
 🎯 Goals: Deliver impactful projects for developers and communities alike.
 <br/>
-✨ Always learning, experimenting, and embracing new tech!, and im currently learning Next.js
-   and Typescript
+✨ Always learning, experimenting, and embracing new tech! I'm currently learning Vue.js
 <br/>
 
 📬 Let’s connect! Always open to collaborate and share ideas: [arkhanardanaok123@gmail.com]
