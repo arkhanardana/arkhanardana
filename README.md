@@ -6,7 +6,7 @@
 
 **`Student`**
 
-### I'm a Passionate Web Developer based on Yogyakarta, Indonesia
+### I'm a Passionate Web Developer based in Yogyakarta, Indonesia
 
 🌟 Aspiring Fullstack Developer | Building modern web apps with Next.js & TypeScript.
 <br/>
